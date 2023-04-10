@@ -10,18 +10,20 @@ Initial Security()
  //Sample Code
 }
 
-
-
 feature1()
-
+{
+//sample code
+}
 security patch()
-
-
+{
+//sample code
+}
 feature2()
+{
+//sample code
+}
 
 security patch()
-
->>>>>>> feature2
 {
 //sample code
 }
