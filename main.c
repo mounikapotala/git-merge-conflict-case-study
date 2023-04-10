@@ -10,7 +10,11 @@ Initial Security()
  //Sample Code
 }
 
+
 feature1()
+
+security patch()
+
 {
 //sample code
 }
