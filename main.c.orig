@@ -10,9 +10,9 @@ Initial Security()
  //Sample Code
 }
 
-
+<<<<<<< HEAD
 feature2()
-
+=======
 security patch()
 >>>>>>> master
 {
